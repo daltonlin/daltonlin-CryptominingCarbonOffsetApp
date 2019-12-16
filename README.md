@@ -1,4 +1,5 @@
-###Cryptomining Carbon Offset App
+##Cryptomining Carbon Offset App
+
 [![Build Status](https://travis-ci.com/daltonlin/daltonlin-CryptominingCarbonOffsetApp.svg?token=qCf1sQCciBtr7YvHnq4o&branch=master)](https://travis-ci.com/daltonlin/daltonlin-CryptominingCarbonOffsetApp)
 ## Initial setup
 
