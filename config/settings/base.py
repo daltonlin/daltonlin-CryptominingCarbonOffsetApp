@@ -77,6 +77,8 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     "carbon_offset.users.apps.UsersConfig",
     # Your stuff: custom apps go here
+    'storages',
+    "carbon_offset.timestamp.apps.TimestampConfig"
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS

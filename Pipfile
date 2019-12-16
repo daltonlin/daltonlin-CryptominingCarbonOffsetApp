@@ -36,6 +36,8 @@ Django = "==2.2.8"
 Werkzeug = "==0.16.0"
 Sphinx = "==2.2.2"
 django_coverage_plugin = "==1.6.0"
+boto3 = "*"
+django-storages = "*"
 
 [requires]
 python_version = "3.7"
